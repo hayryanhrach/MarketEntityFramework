@@ -1,0 +1,14 @@
+C:\Users\hrachik.hayryan\Desktop\market\DBData\bin\Debug\net6.0-windows\DBData.deps.json
+C:\Users\hrachik.hayryan\Desktop\market\DBData\bin\Debug\net6.0-windows\DBData.runtimeconfig.json
+C:\Users\hrachik.hayryan\Desktop\market\DBData\bin\Debug\net6.0-windows\DBData.dll
+C:\Users\hrachik.hayryan\Desktop\market\DBData\bin\Debug\net6.0-windows\DBData.pdb
+C:\Users\hrachik.hayryan\Desktop\market\DBData\obj\Debug\net6.0-windows\DBData.csproj.AssemblyReference.cache
+C:\Users\hrachik.hayryan\Desktop\market\DBData\obj\Debug\net6.0-windows\DBData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hrachik.hayryan\Desktop\market\DBData\obj\Debug\net6.0-windows\DBData.AssemblyInfoInputs.cache
+C:\Users\hrachik.hayryan\Desktop\market\DBData\obj\Debug\net6.0-windows\DBData.AssemblyInfo.cs
+C:\Users\hrachik.hayryan\Desktop\market\DBData\obj\Debug\net6.0-windows\DBData.csproj.CoreCompileInputs.cache
+C:\Users\hrachik.hayryan\Desktop\market\DBData\obj\Debug\net6.0-windows\DBData.dll
+C:\Users\hrachik.hayryan\Desktop\market\DBData\obj\Debug\net6.0-windows\refint\DBData.dll
+C:\Users\hrachik.hayryan\Desktop\market\DBData\obj\Debug\net6.0-windows\DBData.pdb
+C:\Users\hrachik.hayryan\Desktop\market\DBData\obj\Debug\net6.0-windows\DBData.genruntimeconfig.cache
+C:\Users\hrachik.hayryan\Desktop\market\DBData\obj\Debug\net6.0-windows\ref\DBData.dll

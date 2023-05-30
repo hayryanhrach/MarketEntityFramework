@@ -1,0 +1,15 @@
+C:\Users\hrachik.hayryan\Desktop\market\BLmarket\bin\Debug\net6.0-windows\BLmarket.deps.json
+C:\Users\hrachik.hayryan\Desktop\market\BLmarket\bin\Debug\net6.0-windows\BLmarket.dll
+C:\Users\hrachik.hayryan\Desktop\market\BLmarket\bin\Debug\net6.0-windows\BLmarket.pdb
+C:\Users\hrachik.hayryan\Desktop\market\BLmarket\bin\Debug\net6.0-windows\DBData.dll
+C:\Users\hrachik.hayryan\Desktop\market\BLmarket\bin\Debug\net6.0-windows\DBData.pdb
+C:\Users\hrachik.hayryan\Desktop\market\BLmarket\obj\Debug\net6.0-windows\BLmarket.csproj.AssemblyReference.cache
+C:\Users\hrachik.hayryan\Desktop\market\BLmarket\obj\Debug\net6.0-windows\BLmarket.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hrachik.hayryan\Desktop\market\BLmarket\obj\Debug\net6.0-windows\BLmarket.AssemblyInfoInputs.cache
+C:\Users\hrachik.hayryan\Desktop\market\BLmarket\obj\Debug\net6.0-windows\BLmarket.AssemblyInfo.cs
+C:\Users\hrachik.hayryan\Desktop\market\BLmarket\obj\Debug\net6.0-windows\BLmarket.csproj.CoreCompileInputs.cache
+C:\Users\hrachik.hayryan\Desktop\market\BLmarket\obj\Debug\net6.0-windows\BLmarket.csproj.CopyComplete
+C:\Users\hrachik.hayryan\Desktop\market\BLmarket\obj\Debug\net6.0-windows\BLmarket.dll
+C:\Users\hrachik.hayryan\Desktop\market\BLmarket\obj\Debug\net6.0-windows\refint\BLmarket.dll
+C:\Users\hrachik.hayryan\Desktop\market\BLmarket\obj\Debug\net6.0-windows\BLmarket.pdb
+C:\Users\hrachik.hayryan\Desktop\market\BLmarket\obj\Debug\net6.0-windows\ref\BLmarket.dll

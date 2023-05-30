@@ -1,0 +1,17 @@
+C:\Users\hayry\OneDrive\Desktop\market\market\bin\Debug\net6.0-windows\market.exe
+C:\Users\hayry\OneDrive\Desktop\market\market\bin\Debug\net6.0-windows\market.deps.json
+C:\Users\hayry\OneDrive\Desktop\market\market\bin\Debug\net6.0-windows\market.runtimeconfig.json
+C:\Users\hayry\OneDrive\Desktop\market\market\bin\Debug\net6.0-windows\market.dll
+C:\Users\hayry\OneDrive\Desktop\market\market\bin\Debug\net6.0-windows\market.pdb
+C:\Users\hayry\OneDrive\Desktop\market\market\obj\Debug\net6.0-windows\market.csproj.AssemblyReference.cache
+C:\Users\hayry\OneDrive\Desktop\market\market\obj\Debug\net6.0-windows\market.Form1.resources
+C:\Users\hayry\OneDrive\Desktop\market\market\obj\Debug\net6.0-windows\market.csproj.GenerateResource.cache
+C:\Users\hayry\OneDrive\Desktop\market\market\obj\Debug\net6.0-windows\market.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hayry\OneDrive\Desktop\market\market\obj\Debug\net6.0-windows\market.AssemblyInfoInputs.cache
+C:\Users\hayry\OneDrive\Desktop\market\market\obj\Debug\net6.0-windows\market.AssemblyInfo.cs
+C:\Users\hayry\OneDrive\Desktop\market\market\obj\Debug\net6.0-windows\market.csproj.CoreCompileInputs.cache
+C:\Users\hayry\OneDrive\Desktop\market\market\obj\Debug\net6.0-windows\market.dll
+C:\Users\hayry\OneDrive\Desktop\market\market\obj\Debug\net6.0-windows\refint\market.dll
+C:\Users\hayry\OneDrive\Desktop\market\market\obj\Debug\net6.0-windows\market.pdb
+C:\Users\hayry\OneDrive\Desktop\market\market\obj\Debug\net6.0-windows\market.genruntimeconfig.cache
+C:\Users\hayry\OneDrive\Desktop\market\market\obj\Debug\net6.0-windows\ref\market.dll
